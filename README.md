@@ -84,8 +84,3 @@ schedviz/
 ## 👨‍💻 Author
 
 Taufique
-
-```
-
-Do you want me to do that?
-```
