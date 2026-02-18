@@ -87,9 +87,5 @@ Taufique
 
 ```
 
-This version is **ready to edit**—you can change repository URLs, add screenshots, or extend future enhancements.  
-
-If you want, I can also make a **version with badges and GIF screenshots for GitHub** to make it look professional and interactive.  
-
 Do you want me to do that?
 ```
